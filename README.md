@@ -18,15 +18,7 @@ It was built as part of **Level 1 Task 3**.
 2️⃣ Enter a temperature value.  
 3️⃣ Select the unit of the value you entered (Celsius, Fahrenheit, or Kelvin).  
 4️⃣ Click the **Convert** button.  
-5️⃣ See the converted results displayed below.
-
----
-
-## 🌐 Live Demo
-> [Live Demo](https://Mukila07.github.io/temperature-converter/)
-
-*(replace the above link with your GitHub Pages link once deployed)*
-
+5️⃣ See the converted results displayed below
 ---
 
 ## 🛠️ Technologies Used
